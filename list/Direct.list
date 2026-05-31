@@ -1,5 +1,14 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 嘉信
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabplan.com
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,whtjdasha.com
@@ -22,9 +31,9 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,aerianas.top
 DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN-SUFFIX,qeayr.cn
-DOMAIN-SUFFIX,saojc.xyz   
+DOMAIN-SUFFIX,saojc.xyz
 DOMAIN-SUFFIX,dler.cloud
-DOMAIN-SUFFIX,0tk8a3a1q4t94dler.com 
+DOMAIN-SUFFIX,0tk8a3a1q4t94dler.com
 DOMAIN-SUFFIX,wxda.net
 DOMAIN-SUFFIX,hkmlqxg.xyz
 DOMAIN-SUFFIX,qingtiantv888.xyz
@@ -49,7 +58,7 @@ DOMAIN-SUFFIX,km688.ink
 
 DOMAIN-SUFFIX,futo-on.com
 
-# 快猫    
+# 快猫
 DOMAIN-SUFFIX,quickcht3.club
 DOMAIN-SUFFIX,kuaimao2.club
 DOMAIN-SUFFIX,kuaimaonodebgp.com
@@ -57,17 +66,17 @@ DOMAIN-SUFFIX,kuaimaonodebgp.com
 # 火烧
 DOMAIN-SUFFIX,onesubv.site
 DOMAIN-SUFFIX,oneyyds.online
-# 猫耳 
+# 猫耳
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,sevenka.top
 DOMAIN-SUFFIX,maocf1.top
 
-# BestVPN 
+# BestVPN
 DOMAIN-SUFFIX,prosubnet02.eu
 DOMAIN-SUFFIX,networklinkpro.net
 # 小牛
 DOMAIN-SUFFIX,4yfu73r3a4kl.com
-# DOMAIN-SUFFIX,xiaoniuyun.cc  
+# DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-SUFFIX,xiaoniuyun11.com
 DOMAIN-SUFFIX,oxeuro.xyz
 DOMAIN-SUFFIX,v140oy1s.xyz
@@ -90,9 +99,9 @@ DOMAIN-SUFFIX,xxqqx.cn
 DOMAIN-SUFFIX,stga.cn
 
 # 冰云
-DOMAIN-SUFFIX,bingyun.ink   
+DOMAIN-SUFFIX,bingyun.ink
 DOMAIN-SUFFIX,fafhjkah.xyz
-# 牛逼 
+# 牛逼
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,swmixx.cn
