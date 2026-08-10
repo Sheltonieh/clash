@@ -1,0 +1,25 @@
+# Charles Schwab 嘉信
+DOMAIN-SUFFIX,schwab.com,DIRECT
+DOMAIN-SUFFIX,schwabcdn.com,DIRECT
+DOMAIN-SUFFIX,schwab.net,DIRECT
+DOMAIN-SUFFIX,schwab.com.hk,DIRECT
+DOMAIN-SUFFIX,schwab.com.cn,DIRECT
+DOMAIN-SUFFIX,schwab.co.uk,DIRECT
+
+# thinkorswim（如使用）
+DOMAIN-SUFFIX,thinkorswim.com,DIRECT
+DOMAIN-SUFFIX,tdameritrade.com,DIRECT
+
+# Interactive Brokers 盈透官网、账户管理、API
+DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
+DOMAIN-SUFFIX,interactivebrokers.com.hk,DIRECT
+DOMAIN-SUFFIX,interactivebrokers.com.cn,DIRECT
+DOMAIN-SUFFIX,interactivebrokers.ca,DIRECT
+DOMAIN-SUFFIX,ibkr.com,DIRECT
+DOMAIN-SUFFIX,ibkr.info,DIRECT
+DOMAIN-SUFFIX,ibkr.hk,DIRECT
+DOMAIN-SUFFIX,ibkr.com.cn,DIRECT
+
+# IBKR Desktop、TWS、IB Gateway、行情及下单核心通道
+DOMAIN-SUFFIX,ibllc.com,DIRECT
+DOMAIN-SUFFIX,ibllc.com.cn,DIRECT
